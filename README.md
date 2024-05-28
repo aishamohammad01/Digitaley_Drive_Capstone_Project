@@ -1,10 +1,6 @@
-# Digitaley_Drive_Capstone_Project
-Documentation and links to Digitaley Drive Capstone Projects
-
-
 # Introduction
 
-This document details the processes involved in developing data visualizations for two separate capstone projects.
+This document details the processes involved in developing data visualizations for three separate capstone projects.
 
 # Project 1: Employee Satisfaction Analysis
 
@@ -27,10 +23,6 @@ Before building visualizations, a brief exploration of existing human resources 
 The project aimed to achieve two primary objectives:
 
 Answer the ten pre-defined survey questions related to employee satisfaction:
-Do I know what is expected of me at work?
-At work, I have the opportunity to do what I do best every day.
-In the last seven days, I have received recognition or praise for doing good work.
-(Additional 7 questions related to employee experience)
 Generate additional insights from the data beyond the pre-defined questions.
 ## Data Preprocessing
 
@@ -50,7 +42,7 @@ These visualizations were used to derive insights into employee sentiment and sa
 
 ## Conclusion
 
-This data analysis project successfully utilized Power BI to generate visualizations that answered the pre-defined questions and provided additional insights into employee satisfaction. By exploring different aspects of the data, the project revealed valuable information regarding employee needs and areas for improvement within the organization.
+This data analysis project successfully utilized Visualization tools to generate visualizations that answered the pre-defined questions and provided additional insights into employee satisfaction. By exploring different aspects of the data, the project revealed valuable information regarding employee needs and areas for improvement within the organization.
 
 # Project 2: Restaurant Analytics
 
@@ -80,6 +72,30 @@ Restaurant Profile: This section will explore data pertaining to restaurant perf
 
 Since the data was deemed clean, the focus shifted towards mapping the fact and dimension tables within the chosen visualization tool.
 
-# Next Steps
 
-The next steps in the project will involve building the specific charts within each dashboard section and analyzing the data to answer the pre-defined questions. This analysis will potentially lead to further data exploration or cleaning if needed.
+# Project 3: Global Store Analysis
+
+## Project Overview
+
+This section details the approach taken for the third capstone project, analyzing data from a global store chain.
+
+## Analysis Approach
+
+The project focused primarily on data visualization. The goal was to utilize visualizations to answer all seven pre-defined questions related to the global store's performance.
+
+## Data Exploration
+
+A detailed exploration of the data was not explicitly done outside of visualizing tools. 
+
+## Visualization Strategy
+
+The project relied heavily on visualizations to answer the questions. The specific types of charts used would depend on the nature of the questions and the data available.
+
+## Analysis and Insights
+
+The primary focus was on using the created visualizations to extract insights and answer the pre-defined questions concerning the global store's performance.
+
+
+# Conclusion (All Projects)
+
+These capstone projects demonstrate the power of data visualization in extracting valuable insights from data. By effectively using visualizations, you can answer questions, identify trends, and gain a deeper understanding of complex datasets.
