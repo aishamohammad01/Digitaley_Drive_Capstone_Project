@@ -99,3 +99,6 @@ The primary focus was on using the created visualizations to extract insights an
 # Conclusion (All Projects)
 
 These capstone projects demonstrate the power of data visualization in extracting valuable insights from data. By effectively using visualizations, you can answer questions, identify trends, and gain a deeper understanding of complex datasets.
+
+##Link to Dashboards
+https://drive.google.com/drive/folders/1LAERIDFph7kw708tCRApuwDg0eS6whBl?usp=sharing
